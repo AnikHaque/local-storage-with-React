@@ -1,0 +1,22 @@
+.product img {
+        height: 180px;
+        width: 210px;
+}
+
+.product {
+        border: 2px solid darkgray;
+        padding: 10px;
+        margin: 10px;
+}
+
+.product button {
+        background-color: green;
+        padding: 5px 10px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+}
+
+.product:hover {
+        box-shadow: 2px 2px 5px cyan;
+}
